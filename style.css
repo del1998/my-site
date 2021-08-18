@@ -6,7 +6,7 @@ body {
   line-height: 32px;
   color: #222222;
   background-color: #f2f4f6;
-  background-image: url("https://github.com/del1998/my-site/blob/d661d8e7d7777c63eccedcc8b494b2973aa7ce70/hero-bg.jpg");
+  background-image: url("hero-bg.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
